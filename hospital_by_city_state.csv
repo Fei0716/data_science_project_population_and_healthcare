@@ -44,13 +44,13 @@ No,Hospital Name,Address,City,State,View Link,Telephone,Fax
 43,Hospital Kuala Kangsar,Jalan Sultan Idris Shah 1,Kuala Kangsar,Perak,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/57,05-7763333,05-7769660
 44,Hospital Kuala Kubu Bharu,Jalan Hospital,Kuala Kubu Bharu,Selangor,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/118,03-60641333,03- 60643039
 45,Hospital Kuala Lipis,27200 K.Lipis,Kuala Lipis,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/43,09-3123333,09-3121787
-46,Hospital Kuala Lumpur,Jalan Pahang,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/130,03-26155555,03-26989845
+46,Hospital Kuala Lumpur,Jalan Pahang,W.P. Kuala Lumpur,W.P. Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/130,03-26155555,03-26989845
 47,Hospital Kuala Nerang,Kuala Nerang,Kuala Nerang,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/18,04-7867333,04-7867052
 48,Hospital Kuala Penyu,W.D.T. 35,Kuala Penyu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/79,087-853100,087-884212
 49,Hospital Kudat,Peti Surat 22,Kudat,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/80,088-613333,088-611875
 50,Hospital Kulim,"Jalan Mahang, Kulim",Kulim,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/16,04-4272733,04-4900760
 51,Hospital Kunak,W.D.T. 150,Kunak,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/81,089-894100,089-853285
-52,Hospital Labuan,Peti Surat 81006,Labuan,WP Labuan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/131,087-423922/ 423919,087-423928
+52,Hospital Labuan,Peti Surat 81006,W.P. Labuan,W.P. Labuan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/131,087-423922/ 423919,087-423928
 53,Hospital Lahad Datu,Peti Surat 60065,Lahad Datu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/82,089-895111,089-884670
 54,Hospital Langkawi,"Bukit Tekuh,Jalan Padang Maksirat",Langkawi,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/17,04-9665333,04-9660121
 55,Hospital Lawas,Jalan Hospital,Lawas,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/102,085-283781,085-285993
@@ -76,7 +76,7 @@ No,Hospital Name,Address,City,State,View Link,Telephone,Fax
 75,Hospital Pontian,Jalan Alsagoff,Pontian,Johor,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/10,07-6873333,07-6876211
 76,Hospital Port Dickson,"KM 11, Jalan Pantai",Port Dickson,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/36,06-6487333,06-6625003
 77,Hospital Pulau Pinang,Jalan Residensi,Pulau Pinang,Pulau Pinang,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/69,04-2225333,04-2281737
-78,Hospital Putrajaya,"Pusat Pentadbiran Kerajaan Persekutuan, presint 7",Putrajaya,WP Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/132,03-83124200,03-88880137
+78,Hospital Putrajaya,"Pusat Pentadbiran Kerajaan Persekutuan, presint 7",W.P. Putrajaya,W.P. Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/132,03-83124200,03-88880137
 79,Hospital Queen Elizabeth,Karung Berkunci N0.2029,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/76,088-517555,088-318605
 80,Hospital Queen Elizabeth II,"Lorong Bersatu, Jalan Damai Luyang, Kota Kinabalu",Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/75,088-245249,088-272454
 81,Hospital Raja Perempuan Zainab II,Jalan Hospital,Kota Bharu,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/23,09-7452000,09-7486951
@@ -85,7 +85,7 @@ No,Hospital Name,Address,City,State,View Link,Telephone,Fax
 84,Hospital Ranau,Peti Surat 65,Ranau,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/85,088-875266,088-875223
 85,Hospital Raub,Jalan Tengku Abd Samad,Raub,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/46,09-3553333,09-3554331
 86,Hospital Rehabilitasi Cheras,"Jalan Yaacob Latif, Bandar Tun Razak Cheras 56000 Kuala Lumpur
-WP Kuala Lumpur",Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/144,03-91453400,03-91300560
+W.P. Kuala Lumpur",W.P. Kuala Lumpur,W.P. Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/144,03-91453400,03-91300560
 87,Hospital Rompin,"Jalan Kg Kolam Kuala Rompin
 26800 Rompin
 Pahang",Rompin,Pahang,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/147,09-4141305,09-4141554
@@ -143,14 +143,14 @@ Selangor",Shah Alam,Selangor,https://www.moh.gov.my/index.php/database_stores/st
 136,Hospital Tuanku Ja'afar Seremban,Jalan Rasah,Seremban,Negeri Sembilan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/37,06-7623333,06-7625771
 137,Hospital Tuaran,"Peti surat 996, 89207 Tuaran Sabah",Tuaran,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/92,088-788317,088-788167
 138,Hospital Tumpat,Jalan Kelaburan,Tumpat,Kelantan,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/29,09-7263000,09-7257082
-139,Hospital Tunku Azizah (Wanita Dan Kanak-Kanak),Jalan Raja Muda Abdul Aziz,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/149,,
+139,Hospital Tunku Azizah (Wanita Dan Kanak-Kanak),Jalan Raja Muda Abdul Aziz,W.P. Kuala Lumpur,W.P. Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/149,,
 140,Hospital Umum Sarawak,Jalan Hospital,Kuching,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/101,082-276666,
 141,Hospital Wanita dan Kanak-Kanak Sabah,Karung Berkunci 187,Kota Kinabalu,Sabah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/77,088-522600,088-438512
 142,Hospital Yan,Batu 25 Jalan Yan,Yan,Kedah,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/20,04-4655333,04-4655960
 143,Institut Kanser Negara,"No 4, Jalan P7, Presint 7
 62250 Putrajaya
-WP Putrajaya",Putrajaya,WP Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/142,03-88925555,03-88925588
-144,Institut Perubatan Respiratori,Jalan Pahang,Kuala Lumpur,WP Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/138,03-40232966,03-40218807
+W.P. Putrajaya",W.P. Putrajaya,W.P. Putrajaya,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/142,03-88925555,03-88925588
+144,Institut Perubatan Respiratori,Jalan Pahang,W.P. Kuala Lumpur,W.P. Kuala Lumpur,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/138,03-40232966,03-40218807
 145,Pusat Jantung Sarawak,"Jalan Expressway Kota Samarahan
 94300 Samarahan
 Sarawak",Samarahan,Sarawak,https://www.moh.gov.my/index.php/database_stores/store_view_page/82/146,082-668111,082-668001

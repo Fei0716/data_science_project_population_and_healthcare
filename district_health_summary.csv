@@ -1,0 +1,158 @@
+state,district,population,hospital_beds,num_hospitals,num_clinics
+Johor,Batu Pahat,510400,610,1,62
+Johor,Johor Bahru,1800000,3042,3,36
+Johor,Kluang,323500,382,1,29
+Johor,Kota Tinggi,224900,158,1,42
+Johor,Kulai,329200,93,1,14
+Johor,Mersing,79100,349,1,18
+Johor,Muar,314000,575,1,49
+Johor,Pontian,173600,120,1,41
+Johor,Segamat,198200,314,1,35
+Johor,Tangkak,164600,120,1,35
+Kedah,Baling,148100,115,1,42
+Kedah,Bandar Baharu,45600,0,0,15
+Kedah,Kota Setar,376800,1108,1,31
+Kedah,Kuala Muda,550500,703,1,29
+Kedah,Kubang Pasu,249700,91,1,34
+Kedah,Kulim,341300,320,1,31
+Kedah,Langkawi,96400,163,1,13
+Kedah,Padang Terap,66500,80,1,20
+Kedah,Pendang,99800,0,0,20
+Kedah,Pokok Sena,50000,0,0,8
+Kedah,Sik,68600,93,1,22
+Kedah,Yan,73800,89,1,14
+Kelantan,Bachok,165500,0,0,28
+Kelantan,Gua Musang,110500,90,1,28
+Kelantan,Jeli,57800,80,1,15
+Kelantan,Kota Bharu,567500,1811,2,42
+Kelantan,Kuala Krai,107100,424,1,21
+Kelantan,Machang,113900,90,1,15
+Kelantan,Pasir Mas,234200,120,1,29
+Kelantan,Pasir Puteh,138900,90,1,23
+Kelantan,Tanah Merah,153700,146,1,24
+Kelantan,Tumpat,183700,119,1,27
+Melaka,Alor Gajah,260500,106,1,34
+Melaka,Jasin,156400,103,1,28
+Melaka,Melaka Tengah,16400,1245,1,26
+Negeri Sembilan,Jelebu,48700,76,1,18
+Negeri Sembilan,Jempol,131300,108,1,28
+Negeri Sembilan,Kuala Pilah,70400,314,1,28
+Negeri Sembilan,Port Dickson,130100,116,1,11
+Negeri Sembilan,Rembau,47800,76,1,16
+Negeri Sembilan,Seremban,696900,1143,1,28
+Negeri Sembilan,Tampin,88800,144,1,17
+Pahang,Bentong,121200,152,1,21
+Pahang,Bera,101000,40,1,23
+Pahang,Cameron Highlands,44500,40,1,8
+Pahang,Jerantut,100000,77,1,35
+Pahang,Kuantan,557900,1176,1,36
+Pahang,Lipis,97900,168,1,31
+Pahang,Maran,20500,70,1,45
+Pahang,Pekan,123500,110,1,33
+Pahang,Raub,96800,89,1,26
+Pahang,Rompin,100400,109,2,34
+Pahang,Temerloh,171400,650,1,34
+Perak,Bagan Datuk,83400,0,0,7
+Perak,Batang Padang,126700,350,1,26
+Perak,Hilir Perak,141900,548,1,36
+Perak,Hulu Perak,98300,75,1,29
+Perak,Kampar,99900,68,1,10
+Perak,Kerian,169600,100,1,39
+Perak,Kinta,923300,3354,3,31
+Perak,Kuala Kangsar,176700,229,1,34
+Perak,"Larut, Matang Dan Selama",307100,698,2,11
+Perak,Manjung,249600,415,1,30
+Perak,Muallim,78000,-,1,22
+Perak,Perak Tengah,95600,50,1,40
+Perlis,Perlis,289800,508,1,40
+Pulau Pinang,Barat Daya,248300,81,1,16
+Pulau Pinang,Seberang Perai Selatan,185500,105,1,16
+Pulau Pinang,Seberang Perai Tengah,422800,655,2,20
+Pulau Pinang,Seberang Perai Utara,341300,134,1,27
+Pulau Pinang,Timur Laut,551800,1163,1,17
+Sabah,Beaufort,77600,275,1,16
+Sabah,Beluran,90000,52,1,15
+Sabah,Keningau,158100,216,1,20
+Sabah,Kinabatangan,164200,68,1,5
+Sabah,Kota Belud,108300,172,1,17
+Sabah,Kota Kinabalu,500800,2175,4,13
+Sabah,Kota Marudu,71100,97,1,13
+Sabah,Kuala Penyu,23700,48,1,5
+Sabah,Kudat,87300,180,1,14
+Sabah,Kunak,67800,48,1,5
+Sabah,Lahad Datu,226900,268,1,18
+Sabah,Nabawan,29200,0,0,6
+Sabah,Papar,152600,77,1,13
+Sabah,Penampang,163200,0,0,7
+Sabah,Pitas,37300,72,1,12
+Sabah,Putatan,69200,0,0,2
+Sabah,Ranau,86300,110,1,18
+Sabah,Sandakan,435300,400,1,16
+Sabah,Semporna,165400,70,1,10
+Sabah,Sipitang,38100,93,1,9
+Sabah,Tambunan,32100,49,1,11
+Sabah,Tawau,369600,431,1,16
+Sabah,Telupid,28900,0,0,2
+Sabah,Tenom,52000,70,1,12
+Sabah,Tongod,42200,0,0,6
+Sabah,Tuaran,137100,82,1,19
+Sarawak,Asajaya,34900,0,0,4
+Sarawak,Bau,53900,68,1,5
+Sarawak,Belaga,22500,0,0,6
+Sarawak,Beluru,26800,0,0,5
+Sarawak,Betong,37000,48,1,7
+Sarawak,Bintulu,188900,302,1,4
+Sarawak,Bukit Mabong,10600,0,0,8
+Sarawak,Dalat,21700,8,1,4
+Sarawak,Daro,20100,46,1,5
+Sarawak,Julau,15600,0,0,6
+Sarawak,Kabong,19000,0,0,2
+Sarawak,Kanowit,25000,100,1,6
+Sarawak,Kapit,37000,134,1,4
+Sarawak,Kuching,615800,1412,3,25
+Sarawak,Lawas,37200,46,1,9
+Sarawak,Limbang,45600,100,1,6
+Sarawak,Lubok Antu,24600,0,0,8
+Sarawak,Lundu,33800,46,1,6
+Sarawak,Marudi,121500,54,1,4
+Sarawak,Matu,18800,0,0,6
+Sarawak,Meradong,602800,70,0,1
+Sarawak,Miri,251200,698,1,11
+Sarawak,Mukah,42500,80,1,7
+Sarawak,Pakan,15600,0,0,5
+Sarawak,Pusa,19700,0,0,4
+Sarawak,Samarahan,133500,128,1,4
+Sarawak,Saratok,23100,106,1,4
+Sarawak,Sarikei,44400,212,1,4
+Sarawak,Sebauh,29100,0,0,4
+Sarawak,Selangau,19900,0,0,5
+Sarawak,Serian,86000,84,1,9
+Sarawak,Sibu,249000,662,1,7
+Sarawak,Simunjan,36500,42,1,7
+Sarawak,Song,10000,0,0,5
+Sarawak,Sri Aman,61100,92,1,7
+Sarawak,Subis,56600,0,0,7
+Sarawak,Tanjung Manis,7900,0,0,4
+Sarawak,Tatau,32000,0,0,5
+Sarawak,Tebedu,25300,0,0,3
+Sarawak,Telang Usan,17400,0,0,12
+Selangor,Gombak,980300,3153,2,13
+Selangor,Klang,1094100,1261,1,27
+Selangor,Kuala Langat,314500,196,1,28
+Selangor,Kuala Selangor,287600,114,1,27
+Selangor,Petaling,2304800,490,1,12
+Selangor,Sabak Bernam,107900,93,1,28
+Selangor,Sepang,331500,1126,1,13
+Selangor,Ulu Langat,1413300,1087,3,26
+Selangor,Ulu Selangor,246400,120,1,19
+Terengganu,Besut,165400,140,1,27
+Terengganu,Dungun,168100,100,1,23
+Terengganu,Hulu Terengganu,74600,95,1,22
+Terengganu,Kemaman,231800,164,1,30
+Terengganu,Kuala Nerus,151100,0,0,14
+Terengganu,Kuala Terengganu,236700,1155,1,23
+Terengganu,Marang,114700,0,0,20
+Terengganu,Setiu,61500,76,1,17
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,1961200,4874,4,24
+W.P. Labuan,W.P. Labuan,96900,122,1,12
+W.P. Putrajaya,W.P. Putrajaya,117000,637,2,4
